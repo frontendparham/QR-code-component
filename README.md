@@ -1,4 +1,4 @@
-# Stats Preview Card
+# QR Code Component
 
 This is a simple frontendmentor challenge to create and customize QR-code
 
