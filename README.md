@@ -20,7 +20,7 @@ This is a simple frontendmentor challenge to create and customize QR-code
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Stats-Preview-Card/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/QR-code-component/)
 
 ## My process
 
