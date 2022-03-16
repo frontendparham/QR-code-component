@@ -29,6 +29,7 @@ This is a simple frontendmentor challenge to create and customize QR-code
 - HTML
 - CSS
 - Flexbox
+- JavaScript
 
 ## Author
 
